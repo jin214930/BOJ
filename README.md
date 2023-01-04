@@ -20,3 +20,8 @@
 
 - 2559번: 수열 https://www.acmicpc.net/problem/2559
 - 1620번: 나는야 포켓몬 마스터 이다솜 https://www.acmicpc.net/problem/1620
+
+## 2023/01/05
+
+- 9375번: 패션왕 신해빈 https://www.acmicpc.net/problem/9375
+- 1213번: 팰린드롬 만들기 https://www.acmicpc.net/problem/1213
