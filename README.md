@@ -25,3 +25,9 @@
 
 - 9375번: 패션왕 신해빈 https://www.acmicpc.net/problem/9375
 - 1213번: 팰린드롬 만들기 https://www.acmicpc.net/problem/1213
+- 3986번: 좋은 단어 https://www.acmicpc.net/problem/3986
+
+## 2023/01/06
+
+- 1629번: 곱셈 https://www.acmicpc.net/problem/1629
+- 4375번: 1 https://www.acmicpc.net/problem/4375
