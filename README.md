@@ -31,3 +31,9 @@
 
 - 1629번: 곱셈 https://www.acmicpc.net/problem/1629
 - 4375번: 1 https://www.acmicpc.net/problem/4375
+
+## 2023/01/07
+
+- 2178번: 미로 탐색 https://www.acmicpc.net/problem/2178
+- 1012번: 유기농 배추 https://www.acmicpc.net/problem/1012
+- 2468번: 안전 영역 https://www.acmicpc.net/problem/2468
