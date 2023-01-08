@@ -43,3 +43,8 @@
 - 2583번: 영역 구하기 https://www.acmicpc.net/problem/2583
 - 2828번: 사과 담기 게임 https://www.acmicpc.net/problem/2828
 - 4963번: 섬의 개수 https://www.acmicpc.net/problem/4963
+
+## 2023/01/09
+
+- 2667번: 단지번호붙이기 https://www.acmicpc.net/problem/2667
+- 7562번: 나이트의 이동 https://www.acmicpc.net/problem/7562
