@@ -37,3 +37,9 @@
 - 2178번: 미로 탐색 https://www.acmicpc.net/problem/2178
 - 1012번: 유기농 배추 https://www.acmicpc.net/problem/1012
 - 2468번: 안전 영역 https://www.acmicpc.net/problem/2468
+
+## 2023/01/08
+
+- 2583번: 영역 구하기 https://www.acmicpc.net/problem/2583
+- 2828번: 사과 담기 게임 https://www.acmicpc.net/problem/2828
+- 4963번: 섬의 개수 https://www.acmicpc.net/problem/4963
