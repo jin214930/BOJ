@@ -48,3 +48,8 @@
 
 - 2667번: 단지번호붙이기 https://www.acmicpc.net/problem/2667
 - 7562번: 나이트의 이동 https://www.acmicpc.net/problem/7562
+
+## 2023/01/10
+
+- 1992번: 쿼드트리 https://www.acmicpc.net/problem/1992
+- 2910번: 빈도 정렬 https://www.acmicpc.net/problem/2910
