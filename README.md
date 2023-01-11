@@ -53,3 +53,9 @@
 
 - 1992번: 쿼드트리 https://www.acmicpc.net/problem/1992
 - 2910번: 빈도 정렬 https://www.acmicpc.net/problem/2910
+
+## 2023/01/11
+
+- 9012번: 괄호 https://www.acmicpc.net/problem/9012
+- 4949번: 균형잡힌 세상 https://www.acmicpc.net/problem/4949
+- 2870번: 수학숙제 https://www.acmicpc.net/problem/2870
