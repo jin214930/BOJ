@@ -59,3 +59,8 @@
 - 9012번: 괄호 https://www.acmicpc.net/problem/9012
 - 4949번: 균형잡힌 세상 https://www.acmicpc.net/problem/4949
 - 2870번: 수학숙제 https://www.acmicpc.net/problem/2870
+
+## 2023/01/12
+
+- 4659번: 비밀번호 발음하기 https://www.acmicpc.net/problem/4659
+- 10709번: 기상캐스터 https://www.acmicpc.net/problem/10709
