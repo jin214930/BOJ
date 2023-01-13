@@ -64,3 +64,8 @@
 
 - 4659번: 비밀번호 발음하기 https://www.acmicpc.net/problem/4659
 - 10709번: 기상캐스터 https://www.acmicpc.net/problem/10709
+
+## 2023/01/13
+
+- 3474번: 교수가 된 현우 https://www.acmicpc.net/problem/3474
+- 1436번: 영화감독 숌 https://www.acmicpc.net/problem/1436
