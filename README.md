@@ -69,3 +69,8 @@
 
 - 3474번: 교수가 된 현우 https://www.acmicpc.net/problem/3474
 - 1436번: 영화감독 숌 https://www.acmicpc.net/problem/1436
+
+## 2023/01/14
+
+- 11286번: 절댓값 힙 https://www.acmicpc.net/problem/11286
+- 1931번: 회의실 배정 https://www.acmicpc.net/problem/1931
