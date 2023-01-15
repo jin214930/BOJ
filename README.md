@@ -74,3 +74,8 @@
 
 - 11286번: 절댓값 힙 https://www.acmicpc.net/problem/11286
 - 1931번: 회의실 배정 https://www.acmicpc.net/problem/1931
+
+## 2023/01/15
+
+- 24479번: 알고리즘 수업 - 깊이 우선 탐색1 https://www.acmicpc.net/problem/24479
+- 24444번: 알고리즘 수업 - 너비 우선 탐색1 https://www.acmicpc.net/problem/24444
