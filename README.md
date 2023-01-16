@@ -79,3 +79,8 @@
 
 - 24479번: 알고리즘 수업 - 깊이 우선 탐색1 https://www.acmicpc.net/problem/24479
 - 24444번: 알고리즘 수업 - 너비 우선 탐색1 https://www.acmicpc.net/problem/24444
+
+## 2023/01/16
+
+- 1541번: 잃어버린 괄호 https://www.acmicpc.net/problem/1541
+- 1780번: 종이의 개수 https://www.acmicpc.net/problem/1780
