@@ -84,3 +84,8 @@
 
 - 1541번: 잃어버린 괄호 https://www.acmicpc.net/problem/1541
 - 1780번: 종이의 개수 https://www.acmicpc.net/problem/1780
+
+## 2023/01/17
+
+- 11403번: 경로 찾기 https://www.acmicpc.net/problem/11403
+- 1389번: 케빈 베이컨의 6단계 법칙 https://www.acmicpc.net/problem/1389
