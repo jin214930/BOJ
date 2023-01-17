@@ -89,3 +89,9 @@
 
 - 11403번: 경로 찾기 https://www.acmicpc.net/problem/11403
 - 1389번: 케빈 베이컨의 6단계 법칙 https://www.acmicpc.net/problem/1389
+
+## 2023/01/18
+
+- 7576번: 토마토 https://www.acmicpc.net/problem/7576
+- 10026번: 적록색약 https://www.acmicpc.net/problem/10026
+- 5014번: 스타트링크 acmicpc.net/problem/5014
