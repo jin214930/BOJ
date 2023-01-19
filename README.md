@@ -95,3 +95,8 @@
 - 7576번: 토마토 https://www.acmicpc.net/problem/7576
 - 10026번: 적록색약 https://www.acmicpc.net/problem/10026
 - 5014번: 스타트링크 acmicpc.net/problem/5014
+
+## 2023/01/19
+
+- 1325번: 효율적인 해킹 https://www.acmicpc.net/problem/1325
+- 13023번: ABCDE https://www.acmicpc.net/problem/13023
