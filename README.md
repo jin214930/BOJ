@@ -100,3 +100,9 @@
 
 - 1325번: 효율적인 해킹 https://www.acmicpc.net/problem/1325
 - 13023번: ABCDE https://www.acmicpc.net/problem/13023
+
+## 2023/01/20
+
+- 1697번: 숨바꼭질 https://www.acmicpc.net/problem/1697
+- 2852번: NBA 농구 https://www.acmicpc.net/problem/2852
+- 14502번: 연구소 https://www.acmicpc.net/problem/14502
