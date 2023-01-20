@@ -106,3 +106,9 @@
 - 1697번: 숨바꼭질 https://www.acmicpc.net/problem/1697
 - 2852번: NBA 농구 https://www.acmicpc.net/problem/2852
 - 14502번: 연구소 https://www.acmicpc.net/problem/14502
+
+## 2023/01/21
+
+- 17298번: 오큰수 https://www.acmicpc.net/problem/17298
+- 2636번: 치즈 https://www.acmicpc.net/problem/2636
+- 1068번: 트리 https://www.acmicpc.net/problem/1068
