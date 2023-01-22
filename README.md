@@ -112,3 +112,7 @@
 - 17298번: 오큰수 https://www.acmicpc.net/problem/17298
 - 2636번: 치즈 https://www.acmicpc.net/problem/2636
 - 1068번: 트리 https://www.acmicpc.net/problem/1068
+
+## 2023/01/22
+
+- 15686번: 치킨 배달 https://www.acmicpc.net/problem/15686
