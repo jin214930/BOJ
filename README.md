@@ -116,3 +116,10 @@
 ## 2023/01/22
 
 - 15686번: 치킨 배달 https://www.acmicpc.net/problem/15686
+- 2589번: 보물섬 https://www.acmicpc.net/problem/2589
+
+## 2023/01/23
+
+- 16234번: 인구 이동 https://www.acmicpc.net/problem/16234
+- 14620번: 꽃길 https://www.acmicpc.net/problem/14620
+- 4179번: 불! https://www.acmicpc.net/problem/4179
