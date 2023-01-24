@@ -123,3 +123,9 @@
 - 16234번: 인구 이동 https://www.acmicpc.net/problem/16234
 - 14620번: 꽃길 https://www.acmicpc.net/problem/14620
 - 4179번: 불! https://www.acmicpc.net/problem/4179
+
+## 2023/01/24
+
+- 12869번: 뮤탈리스크 https://www.acmicpc.net/problem/12869
+- 12851번: 숨바꼭질 2 https://www.acmicpc.net/problem/12851
+- 13913번: 숨바꼭질 4 https://www.acmicpc.net/problem/13913
