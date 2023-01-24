@@ -1,8 +1,8 @@
 #include <bits/stdc++.h> 
 using namespace std;
 
-int n, k, visited[100001], x;
-vector<int> tmp;
+int n, k, x, visited[100001], pre[100001];
+vector<int> v;
 
 int main() {
 	ios_base::sync_with_stdio(false);
@@ -10,33 +10,32 @@ int main() {
 	cout.tie(NULL);
 
 	cin >> n >> k;
-	vector<int> v;
-	queue<pair<int, vector<int>>> q;
-	v.push_back(n);
-	q.push({ n, v });
+	queue<int> q;
+	q.push(n);
 	visited[n] = 1;
 
 	while (q.size()) {
-		tie(x, tmp) = q.front();
+		x = q.front();
 		q.pop();
 
-		if (x == k) {
-			v = tmp;
+		if (x == k) 
 			break;
-		}
 
 		for (int i : {x - 1, x + 1, 2 * x}) {
 			if (i >= 0 && i <= 100000 && !visited[i]) {
-				tmp.push_back(i);
-				q.push({ i, tmp });
+				q.push(i);
 				visited[i] = visited[x] + 1;
-				tmp.pop_back();
+				pre[i] = x;
 			}
 			
 		}
 	}
 
 	cout << visited[k] - 1 << '\n';
+	for (int i = k; i != n; i = pre[i])
+		v.push_back(i);
+	v.push_back(n);
+	reverse(v.begin(), v.end());
 	for (int i : v)
 		cout << i << ' ';
 
