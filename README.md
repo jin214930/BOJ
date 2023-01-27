@@ -141,3 +141,9 @@
 - 3273번: 두 수의 합 https://www.acmicpc.net/problem/3273
 - 5397번: 키로거 https://www.acmicpc.net/problem/5397
 - 2493번: 탑 https://www.acmicpc.net/problem/2493
+
+## 2023/01/27
+
+- 2504번: 괄호의 값 https://www.acmicpc.net/problem/2504
+- 1926번: 그림 https://www.acmicpc.net/problem/1926
+- 6593번: 상범 빌딩 https://www.acmicpc.net/problem/6593
