@@ -153,3 +153,9 @@
 - 12852번: 1로 만들기 2 https://www.acmicpc.net/problem/12852
 - 2302번: 극장 좌석 https://www.acmicpc.net/problem/2302
 - 9657번: 돌 게임 3 https://www.acmicpc.net/problem/9657
+
+## 2023/01/29
+
+- 14503번: 로봇 청소기 https://www.acmicpc.net/problem/14503
+- 18290번: NM과 K (1) https://www.acmicpc.net/problem/18290
+- 9205번: 맥주 마시면서 걸어가기 https://www.acmicpc.net/problem/9205
