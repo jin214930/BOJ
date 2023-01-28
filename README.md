@@ -147,3 +147,9 @@
 - 2504번: 괄호의 값 https://www.acmicpc.net/problem/2504
 - 1926번: 그림 https://www.acmicpc.net/problem/1926
 - 6593번: 상범 빌딩 https://www.acmicpc.net/problem/6593
+
+## 2023/01/28
+
+- 12852번: 1로 만들기 2 https://www.acmicpc.net/problem/12852
+- 2302번: 극장 좌석 https://www.acmicpc.net/problem/2302
+- 9657번: 돌 게임 3 https://www.acmicpc.net/problem/9657
