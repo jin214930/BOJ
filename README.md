@@ -159,3 +159,9 @@
 - 14503번: 로봇 청소기 https://www.acmicpc.net/problem/14503
 - 18290번: NM과 K (1) https://www.acmicpc.net/problem/18290
 - 9205번: 맥주 마시면서 걸어가기 https://www.acmicpc.net/problem/9205
+
+## 2023/01/30
+
+- 16637번: 괄호 추가하기 https://www.acmicpc.net/submit/16637
+- 14888번: 연산자 끼워넣기 https://www.acmicpc.net/problem/14888
+- 5525번: IOIOI https://www.acmicpc.net/problem/5525
