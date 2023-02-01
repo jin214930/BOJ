@@ -170,3 +170,9 @@
 
 - 17071번: 숨바꼭질 5 https://www.acmicpc.net/problem/17071
 - 14497번: 주난의 난 https://www.acmicpc.net/problem/14497
+
+## 2023/02/01
+
+- 3197번: 백조의 호수 https://www.acmicpc.net/problem/3197
+- 9934번: 완전 이진 트리 https://www.acmicpc.net/problem/9934
+- 15684번: 사다리 조작 https://www.acmicpc.net/problem/15684
