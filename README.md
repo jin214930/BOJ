@@ -176,3 +176,9 @@
 - 3197번: 백조의 호수 https://www.acmicpc.net/problem/3197
 - 9934번: 완전 이진 트리 https://www.acmicpc.net/problem/9934
 - 15684번: 사다리 조작 https://www.acmicpc.net/problem/15684
+
+## 2023/02/02
+
+- 1074번: Z https://www.acmicpc.net/problem/1074
+- 16928번: 뱀과 사다리 게임 https://www.acmicpc.net/problem/16928
+- 9019번: DSLR https://www.acmicpc.net/problem/9019
