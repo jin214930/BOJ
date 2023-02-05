@@ -188,3 +188,9 @@
 - 7662번: 이중 우선순위 큐 https://www.acmicpc.net/problem/7662
 - 16236번: 아기 상어 https://www.acmicpc.net/problem/16236
 - 1707번: 이분 그래프 https://www.acmicpc.net/problem/1707
+
+## 2023/02/04
+
+- 16929: Two Dots https://www.acmicpc.net/problem/16929
+- 16947: 서울 지하철 2호선 https://www.acmicpc.net/problem/16947
+- 14226: 이모티콘 https://www.acmicpc.net/problem/14226
