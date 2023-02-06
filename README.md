@@ -200,3 +200,9 @@
 - 2146번: 다리 만들기 https://www.acmicpc.net/problem/2146
 - 1963번: 소수 경로 https://www.acmicpc.net/problem/1963
 - 13549번: 숨바꼭질 3 https://www.acmicpc.net/problem/13549
+
+## 2023/02/06
+
+- 1261번: 알고스팟 https://www.acmicpc.net/problem/1261
+- 16964번: DFS 스페셜 저지 https://www.acmicpc.net/problem/16964
+- 16940번: BFS 스페셜 저지 https://www.acmicpc.net/problem/16940
