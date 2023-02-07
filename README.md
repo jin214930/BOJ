@@ -206,3 +206,9 @@
 - 1261번: 알고스팟 https://www.acmicpc.net/problem/1261
 - 16964번: DFS 스페셜 저지 https://www.acmicpc.net/problem/16964
 - 16940번: BFS 스페셜 저지 https://www.acmicpc.net/problem/16940
+
+## 2023/02/07
+
+- 1991번: 트리 순회 https://www.acmicpc.net/problem/1991
+- 11725번: 트리의 부모 찾기 https://www.acmicpc.net/problem/11725
+- 1967번: 트리의 지름 https://www.acmicpc.net/problem/1967
