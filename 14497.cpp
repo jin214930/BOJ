@@ -6,6 +6,10 @@ int dy[] = {0, 0, 1, -1}, dx[] = {1, -1, 0, 0};
 char a[300][300];
 
 int main() {
+  ios_base::sync_with_stdio(false);
+  cin.tie(NULL);
+  cout.tie(NULL);
+
   cin >> n >> m >> b >> c >> d >> e;
   b--;
   c--;
