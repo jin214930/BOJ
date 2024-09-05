@@ -8,3 +8,6 @@
 # 2024/09/04
 * 1062번 [가르침](https://www.acmicpc.net/problem/1062)
 * 17144번 [미세먼지 안녕!](https://www.acmicpc.net/problem/17144)
+# 2024/09/05
+* 17406번 [배열 돌리기 4](https://www.acmicpc.net/problem/17406)
+* 1339번 [단어 수학](https://www.acmicpc.net/problem/1339)
