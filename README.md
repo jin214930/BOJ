@@ -11,3 +11,5 @@
 # 2024/09/05
 * 17406번 [배열 돌리기 4](https://www.acmicpc.net/problem/17406)
 * 1339번 [단어 수학](https://www.acmicpc.net/problem/1339)
+# 2024/09/06
+* 2234번 [성곽](https://www.acmicpc.net/problem/2234)
