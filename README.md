@@ -13,3 +13,4 @@
 * 1339번 [단어 수학](https://www.acmicpc.net/problem/1339)
 # 2024/09/06
 * 2234번 [성곽](https://www.acmicpc.net/problem/2234)
+* 1072번 [게임](https://www.acmicpc.net/problem/1072)
