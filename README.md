@@ -14,3 +14,5 @@
 # 2024/09/06
 * 2234번 [성곽](https://www.acmicpc.net/problem/2234)
 * 1072번 [게임](https://www.acmicpc.net/problem/1072)
+# 2024/09/07
+* 6236번 [용돈 관리](https://www.acmicpc.net/problem/6236)
