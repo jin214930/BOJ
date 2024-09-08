@@ -16,3 +16,6 @@
 * 1072번 [게임](https://www.acmicpc.net/problem/1072)
 # 2024/09/07
 * 6236번 [용돈 관리](https://www.acmicpc.net/problem/6236)
+# 2021/09/08
+* 16434번 [드래곤 앤 던전](https://www.acmicpc.net/problem/16434)
+* 2343번 [기타 레슨](https://www.acmicpc.net/problem/2343)
