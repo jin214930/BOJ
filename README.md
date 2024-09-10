@@ -23,3 +23,4 @@
 * 16936번 [나3곱2](https://www.acmicpc.net/problem/16936)
 # 2024/09/10
 * 2792번 [보석 상자](https://www.acmicpc.net/problem/2792)
+* 20055번 [경사로](https://www.acmicpc.net/problem/14890)
