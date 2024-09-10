@@ -21,3 +21,5 @@
 * 2343번 [기타 레슨](https://www.acmicpc.net/problem/2343)
 # 2024/09/09
 * 16936번 [나3곱2](https://www.acmicpc.net/problem/16936)
+# 2024/09/10
+* 2792번 [보석 상자](https://www.acmicpc.net/problem/2792)
