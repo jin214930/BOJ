@@ -28,3 +28,7 @@
 # 2024/09/11
 * 1707번 [이분 그래프](https://www.acmicpc.net/problem/1707)
 * 16929번 [Two Dots](https://www.acmicpc.net/problem/16929)
+# 2024/09/12
+* 16926번 [배열 돌리기 1](https://www.acmicpc.net/problem/16926)
+* 16927번 [배열 돌리기 2](https://www.acmicpc.net/problem/16927)
+* 16935번 [배열 돌리기 3](https://www.acmicpc.net/problem/16935)
