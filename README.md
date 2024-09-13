@@ -32,3 +32,6 @@
 * 16926번 [배열 돌리기 1](https://www.acmicpc.net/problem/16926)
 * 16927번 [배열 돌리기 2](https://www.acmicpc.net/problem/16927)
 * 16935번 [배열 돌리기 3](https://www.acmicpc.net/problem/16935)
+# 2024/09/13
+* 13244번 [Tree](https://www.acmicpc.net/problem/13244)
+* 15926번 [현욱은 괄호왕이야!!](https://www.acmicpc.net/problem/15926)
