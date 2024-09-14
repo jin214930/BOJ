@@ -35,3 +35,5 @@
 # 2024/09/13
 * 13244번 [Tree](https://www.acmicpc.net/problem/13244)
 * 15926번 [현욱은 괄호왕이야!!](https://www.acmicpc.net/problem/15926)
+# 2024/09/14
+* 20055번 [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)
