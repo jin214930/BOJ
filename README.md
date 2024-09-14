@@ -23,7 +23,7 @@
 * 16936번 [나3곱2](https://www.acmicpc.net/problem/16936)
 # 2024/09/10
 * 2792번 [보석 상자](https://www.acmicpc.net/problem/2792)
-* 20055번 [경사로](https://www.acmicpc.net/problem/14890)
+* 14890번 [경사로](https://www.acmicpc.net/problem/14890)
 * 14391번 [종이 조각](https://www.acmicpc.net/problem/14391)
 # 2024/09/11
 * 1707번 [이분 그래프](https://www.acmicpc.net/problem/1707)
