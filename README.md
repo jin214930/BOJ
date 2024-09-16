@@ -41,3 +41,4 @@
 * 16922번 [로마 숫자 만들기](https://www.acmicpc.net/problem/16922)
 # 2024/09/16
 * 21608번 [상어 초등학교](https://www.acmicpc.net/problem/21608)
+* 3190번 [뱀](https://www.acmicpc.net/problem/3190)
