@@ -39,3 +39,5 @@
 * 20055번 [컨베이어 벨트 위의 로봇](https://www.acmicpc.net/problem/20055)
 # 2024/09/15
 * 16922번 [로마 숫자 만들기](https://www.acmicpc.net/problem/16922)
+# 2024/09/16
+* 21608번 [상어 초등학교](https://www.acmicpc.net/problem/21608)
