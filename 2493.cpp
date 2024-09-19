@@ -13,10 +13,8 @@ int main() {
   for (int i = 1; i <= n; i++) cin >> a[i];
 
   for (int i = 1; i <= n; i++) {
-    while(st.size() && a[st.top()] < a[i]) 
-      st.pop();
-    if(st.size())
-    ans[i] = st.top();
+    while (st.size() && a[st.top()] < a[i]) st.pop();
+    if (st.size()) ans[i] = st.top();
     st.push(i);
   }
 
