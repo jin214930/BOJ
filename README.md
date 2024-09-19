@@ -45,3 +45,7 @@
 # 2024/09/17
 * 17088번 [등차수열 변환](https://www.acmicpc.net/problem/17088)
 * 16937번 [두 스티커](https://www.acmicpc.net/problem/16937)
+# 2024/09/18
+* 17089번 [세 친구](https://www.acmicpc.net/problem/17089)
+# 2024/09/19
+* 9935번 [문자열 폭발](https://www.acmicpc.net/problem/9935)
