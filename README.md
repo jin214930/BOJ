@@ -49,3 +49,4 @@
 * 17089번 [세 친구](https://www.acmicpc.net/problem/17089)
 # 2024/09/19
 * 9935번 [문자열 폭발](https://www.acmicpc.net/problem/9935)
+* 2493번 [탑](https://www.acmicpc.net/problem/2493)
