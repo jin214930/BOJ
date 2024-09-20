@@ -51,3 +51,6 @@
 * 9935번 [문자열 폭발](https://www.acmicpc.net/problem/9935)
 * 2493번 [탑](https://www.acmicpc.net/problem/2493)
 * 6198번 [옥상 정원 꾸미기](https://www.acmicpc.net/problem/6198)
+# 2024/09/20
+* 14499번 [주사위 굴리기](https://www.acmicpc.net/problem/14499)
+* 23288번 [주사위 굴리기 2](https://www.acmicpc.net/problem/23288)
