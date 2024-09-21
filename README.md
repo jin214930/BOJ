@@ -54,3 +54,6 @@
 # 2024/09/20
 * 14499번 [주사위 굴리기](https://www.acmicpc.net/problem/14499)
 * 23288번 [주사위 굴리기 2](https://www.acmicpc.net/problem/23288)
+# 2024/09/21
+* 14891번 [톱니바퀴](https://www.acmicpc.net/problem/14891)
+* 15662번 [톱니바퀴 (2)](https://www.acmicpc.net/problem/15662)
