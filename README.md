@@ -59,3 +59,6 @@
 * 15662번 [톱니바퀴 (2)](https://www.acmicpc.net/problem/15662)
 # 2024/09/22
 * 16236번 [아기 상어](https://www.acmicpc.net/problem/16236)
+# 2021/09/23
+* 17141번 [연구소 2](https://www.acmicpc.net/problem/17141)
+* 17142번 [연구소 3](https://www.acmicpc.net/problem/17142)
