@@ -65,3 +65,6 @@
 # 2024/09/24
 * 2109번 [순회강연](https://www.acmicpc.net/problem/2109)
 * 1781번 [컵라면](https://www.acmicpc.net/problem/1781)
+# 2024/09/25
+* 1202번 [보석도독](https://www.acmicpc.net/problem/1202)
+* 1644번 [소수의 연속합](https://www.acmicpc.net/problem/1644)
