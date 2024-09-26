@@ -1,3 +1,12 @@
 # 2024/09/26
 * 2309번 [일곱 난쟁이](https://www.acmicpc.net/problem/2309)
 * 10808번 [알파벳 개수](https://www.acmicpc.net/problem/10808)
+* 2979번 [트럭 주차](https://www.acmicpc.net/problem/2979)
+* 10988번 [팰린드롬인지 확인하기](https://www.acmicpc.net/problem/10988)
+* 1159번 [농구 경기](https://www.acmicpc.net/problem/1159)
+* 11655번 [ROT13](https://www.acmicpc.net/problem/11655)
+* 9996번 [한국이 그리울 땐 서버에 접속하지](https://www.acmicpc.net/problem/9996)
+* 2559번 [수열](https://www.acmicpc.net/problem/2559)
+* 1620번 [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)
+* 9375번 [패션왕 신해빈](https://www.acmicpc.net/problem/9375)
+* 1213번 [팰린드롬 만들기](https://www.acmicpc.net/problem/1213)
