@@ -19,3 +19,5 @@
 * 1012번 [유기농 배추](https://www.acmicpc.net/problem/1012)
 * 2468번 [안전 영역](https://www.acmicpc.net/problem/2468)
 * 1992번 [쿼드트리](https://www.acmicpc.net/problem/1992)
+* 2828번 [사과 담기 게임](https://www.acmicpc.net/problem/2828)
+* 2910번 [빈도 정렬](https://www.acmicpc.net/problem/2910)
