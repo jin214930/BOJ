@@ -10,3 +10,12 @@
 * 1620번 [나는야 포켓몬 마스터 이다솜](https://www.acmicpc.net/problem/1620)
 * 9375번 [패션왕 신해빈](https://www.acmicpc.net/problem/9375)
 * 1213번 [팰린드롬 만들기](https://www.acmicpc.net/problem/1213)
+# 2024/09/27
+* 1940번 [주몽](https://www.acmicpc.net/problem/1940)
+* 3986번 [좋은 단어](https://www.acmicpc.net/problem/3986)
+* 1629번 [곱셈](https://www.acmicpc.net/problem/1629)
+* 4375번 [1](https://www.acmicpc.net/problem/4375)
+* 2178번 [미로 탐색](https://www.acmicpc.net/problem/2178)
+* 1012번 [유기농 배추](https://www.acmicpc.net/problem/1012)
+* 2468번 [안전 영역](https://www.acmicpc.net/problem/2468)
+* 1992번 [쿼드트리](https://www.acmicpc.net/problem/1992)
