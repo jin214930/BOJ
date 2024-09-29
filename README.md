@@ -74,3 +74,5 @@
 * 4811번 [알약](https://www.acmicpc.net/problem/4811)
 # 2024/09/28
 * 5557번 [1학년](https://www.acmicpc.net/problem/5557)
+# 2024/09/29
+* 9205번 [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)
