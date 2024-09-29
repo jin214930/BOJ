@@ -76,3 +76,4 @@
 * 5557번 [1학년](https://www.acmicpc.net/problem/5557)
 # 2024/09/29
 * 9205번 [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)
+* 14395번 [4연산](https://www.acmicpc.net/problem/14395)
