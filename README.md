@@ -78,3 +78,5 @@
 * 9205번 [맥주 마시면서 걸어가기](https://www.acmicpc.net/problem/9205)
 * 14395번 [4연산](https://www.acmicpc.net/problem/14395)
 * 12789번 [도키도키 간식드라마](https://www.acmicpc.net/problem/12789)
+# 2024/09/30
+* 12865번 [평범한 배낭](https://www.acmicpc.net/problem/12865)
