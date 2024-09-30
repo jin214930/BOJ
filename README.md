@@ -80,3 +80,4 @@
 * 12789번 [도키도키 간식드라마](https://www.acmicpc.net/problem/12789)
 # 2024/09/30
 * 12865번 [평범한 배낭](https://www.acmicpc.net/problem/12865)
+* 24511번 [queuestack](https://www.acmicpc.net/problem/24511)
