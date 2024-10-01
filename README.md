@@ -81,3 +81,5 @@
 # 2024/09/30
 * 12865번 [평범한 배낭](https://www.acmicpc.net/problem/12865)
 * 24511번 [queuestack](https://www.acmicpc.net/problem/24511)
+# 2024/10/01
+* 3015번 [오아시스 재결합](https://www.acmicpc.net/problem/3015)
