@@ -83,3 +83,6 @@
 * 24511번 [queuestack](https://www.acmicpc.net/problem/24511)
 # 2024/10/01
 * 3015번 [오아시스 재결합](https://www.acmicpc.net/problem/3015)
+# 2024/10/02
+* 1700번 [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)
+* 2565번 [전깃줄](https://www.acmicpc.net/problem/2565)
