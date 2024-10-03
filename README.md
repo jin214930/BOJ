@@ -86,3 +86,6 @@
 # 2024/10/02
 * 1700번 [멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)
 * 2565번 [전깃줄](https://www.acmicpc.net/problem/2565)
+# 2024/10/03
+* 1561번 [놀이 공원] (https://www.acmicpc.net/problem/1561)
+* 14003번 [가장 긴 증가하는 부분 순열 5](https://www.acmicpc.net/problem/14003)
