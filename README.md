@@ -89,3 +89,7 @@
 # 2024/10/03
 * 1561번 [놀이 공원] (https://www.acmicpc.net/problem/1561)
 * 14003번 [가장 긴 증가하는 부분 순열 5](https://www.acmicpc.net/problem/14003)
+# 2024/10/04
+* 17825번 [주사위 윷놀이](https://www.acmicpc.net/problem/17825)
+* 15685번 [드래곤 커브](https://www.acmicpc.net/problem/15685)
+* 17822번 [원판 돌리기](https://www.acmicpc.net/problem/17822)
