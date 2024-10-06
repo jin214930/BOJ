@@ -96,3 +96,6 @@
 # 2024/10/05
 * 15683번 [감시](https://www.acmicpc.net/problem/15683)
 * 2632번 [피자판매](https://www.acmicpc.net/problem/2632)
+# 2024/10/06
+* 17143번 [낚시왕](https://www.acmicpc.net/problem/17143)
+* 12100번 [2048 (Easy)](https://www.acmicpc.net/problem/12100)

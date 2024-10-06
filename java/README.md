@@ -22,3 +22,13 @@
 * 2828번 [사과 담기 게임](https://www.acmicpc.net/problem/2828)
 * 2910번 [빈도 정렬](https://www.acmicpc.net/problem/2910)
 * 4659번 [비밀번호 발음하기](https://www.acmicpc.net/problem/4659)
+# 2024/10/05
+* 2870번 [수학숙제](https://www.acmicpc.net/problem/2870)
+* 10709번 [기상캐스터](https://www.acmicpc.net/problem/10709)
+* 3474번 [교수가 된 현우](https://www.acmicpc.net/problem/3474)
+* 2852번 [NBA 농구](https://www.acmicpc.net/problem/2852)
+* 1436번 [영화감독 숌](https://www.acmicpc.net/problem/1436)
+* 9012번 [괄호](https://www.acmicpc.net/problem/9012)
+* 4949번 [균형잡힌 세상](https://www.acmicpc.net/problem/4949)
+* 14502번 [연구소](https://www.acmicpc.net/problem/14502)
+* 2636번 [치즈](https://www.acmicpc.net/problem/2636)
