@@ -101,3 +101,5 @@
 * 12100번 [2048 (Easy)](https://www.acmicpc.net/problem/12100)
 # 2024/10/07
 * 1193번 [분수찾기](https://www.acmicpc.net/problem/1193)
+# 2024/10/08
+* 1248번 [Guess](https://www.acmicpc.net/problem/1248)
