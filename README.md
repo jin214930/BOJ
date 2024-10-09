@@ -103,3 +103,5 @@
 * 1193번 [분수찾기](https://www.acmicpc.net/problem/1193)
 # 2024/10/08
 * 1248번 [Guess](https://www.acmicpc.net/problem/1248)
+# 2024/10/09
+* 16947번 [서울 지하철 2호선](https://www.acmicpc.net/problem/16947)
